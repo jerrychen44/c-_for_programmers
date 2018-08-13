@@ -1,0 +1,7 @@
+g++, -o main.out, main.cpp
+./main.out, stdin=open("input.txt", "r")
+
+
+i tried
+
+./a.out < input.txt
